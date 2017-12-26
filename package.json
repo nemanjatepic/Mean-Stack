@@ -1,0 +1,32 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemanjatepic/Mean-Stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Nemanja Tepic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemanjatepic/Mean-Stack/issues"
+  },
+  "homepage": "https://github.com/nemanjatepic/Mean-Stack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "nodemon": "^1.14.3",
+    "object-assign": "^4.1.1"
+  }
+}
